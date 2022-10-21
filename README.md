@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/vinod"><img src="https://api.daily.dev/devcards/3d19316e4c0345d2bf875262c5467903.png?r=op4" width="200" alt="Vinod Khadka's Dev Card"/></a>
+<a href="https://app.daily.dev/vinod"><img src="https://api.daily.dev/devcards/3d19316e4c0345d2bf875262c5467903.png?r=i8h" width="250" alt="Vinod Khadka's Dev Card"/></a>
 
 
 - 👋 Hi, I’m Vinod, I am a Mobile Engineer, 
