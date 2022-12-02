@@ -1,4 +1,5 @@
-<a href="https://app.daily.dev/vinod"><img src="https://api.daily.dev/devcards/3d19316e4c0345d2bf875262c5467903.png?r=2l5" width="300" alt="Vinod Khadka's Dev Card"/></a>
+<a href="https://app.daily.dev/vinod"><img src="https://api.daily.dev/devcards/3d19316e4c0345d2bf875262c5467903.png?r=4ei" width="300" alt="Vinod Khadka's Dev Card"/></a>
+
 
 - 👋 Hi, I’m Vinod, I am a Mobile Engineer, 
 - 🌱 I’m currently learning  ReactNative
